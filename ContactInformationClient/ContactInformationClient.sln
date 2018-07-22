@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactInformationClient", "ContactInformationClient\ContactInformationClient.csproj", "{735C0B75-B62E-4070-B7B0-3FFC91E7048F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735C0B75-B62E-4070-B7B0-3FFC91E7048F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735C0B75-B62E-4070-B7B0-3FFC91E7048F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735C0B75-B62E-4070-B7B0-3FFC91E7048F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735C0B75-B62E-4070-B7B0-3FFC91E7048F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EFDD6B-B721-46BE-B10B-DD4074463737}
+	EndGlobalSection
+EndGlobal
